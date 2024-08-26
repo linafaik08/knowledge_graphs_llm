@@ -1,4 +1,4 @@
-# LLM & Knowledge Graphs
+# Knowledge Graphs & LLM
 
 - Author: [Lina Faik](https://www.linkedin.com/in/lina-faik/)
 - Creation date: August 2024
